@@ -29,3 +29,7 @@ docker_yum_gpg_key: https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
 
 # A list of users who will be added to the docker group.
 docker_users: []
+
+# Docker registry mirror
+docker_registry_mirror: true
+docker_registry_mirror_site: https://dockerhub.azk8s.cn
