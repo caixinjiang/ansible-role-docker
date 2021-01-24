@@ -32,4 +32,4 @@ docker_users: []
 
 # Docker registry mirror
 docker_registry_mirror: true
-docker_registry_mirror_site: https://dockerhub.azk8s.cn
+docker_registry_mirror_site: https://docker.mirrors.ustc.edu.cn
